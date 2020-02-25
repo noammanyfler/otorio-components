@@ -1,0 +1,12 @@
+{
+    "extends": ["airbnb", "airbnb/hooks"],
+    "env": {
+        "browser": true
+    },
+    "globals": {
+        "React": true
+    },
+    "rules": {
+        
+    }
+}
